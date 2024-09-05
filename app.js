@@ -3,7 +3,7 @@ let tareas = [];
 function mostrarOpciones() {
     return parseInt(prompt(`
         Opciones Disponibles
-        1.= Agregar Tarea
+        1.- Agregar Tarea
         2.- Ver todas las Tareas
         3.- Marcar mis tareas como completadas
         4.- Salir
